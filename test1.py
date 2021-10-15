@@ -3,4 +3,4 @@ print(b)
 c=1
 b=2
 #aqui desde local
-
+#aqui tabien desde el loca
